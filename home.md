@@ -1,45 +1,29 @@
 # CPT-363 User Interface Design
 
-> ## What’s Happening This Week
-> ### How to explore the problem space?
-> #### Important Reminders
-> * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
-> * [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
->
-> #### Required Reading
-> * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
->
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=primary')
+<blockquote>
+  <h2>What’s Happening This Week</h2>
+  <h3>How to explore the problem space?</h3>
+  <h4>Important Reminders</h4>
+  <ul>
+    <li><a href="#">Journey Map</a> assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span></li>
+    <li><a href="#">Course Reflection Log</a> assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span></li>
+  </ul>
 
-### Docsify-This
+  <h4>Required Reading</h4>
+  <ul>
+    <li>
+      <a href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">
+        The Skeptic’s Guide To Low-Fidelity Prototyping
+      </a>
+    </li>
+  </ul>
 
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
->
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-rounded')
->
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-secondary')
->
-> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button-secondary-rounded')
-
-### Docsify v5
-
-#### Basic
-
-<button type="button">Button</button>
-<a href="javascript:void(0);" class="button">Link Button</a>
-<input type="button" value="Input Button" class="button">
-
-#### Primary
-
-<button type="button" class="primary">Button</button>
-<a href="javascript:void(0);" class="button primary">Link Button</a>
-<input type="button" value="Input Button" class="primary">
-
-#### Secondary
-
-<button type="button" class="secondary">Button</button>
-<a href="javascript:void(0);" class="button secondary">Link Button</a>
-<input type="button" value="Input Button" class="secondary">
+  <p>
+    <a href="[javascript:void(0);](https://canvas.sfu.ca/courses/44038/quizzes/166553)" class="primary">
+      Required Reading Quiz due Jun 4th
+    </a>
+  </p>
+</blockquote>
 
 ---
 
