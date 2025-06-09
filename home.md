@@ -19,7 +19,7 @@
   </ul>
 
   <p>
-    <a href="[javascript:void(0);](https://canvas.sfu.ca/courses/44038/quizzes/166553)" class="button primary">
+    <a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="button primary">
       Required Reading Quiz due Jun 4th
     </a>
   </p>
