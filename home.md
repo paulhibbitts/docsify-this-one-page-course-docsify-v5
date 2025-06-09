@@ -11,6 +11,25 @@
 >
 > [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=primary')
 
+
+#### Basic
+
+<button type="button">Button</button>
+<a href="javascript:void(0);" class="button">Link Button</a>
+<input type="button" value="Input Button" class="button">
+
+#### Primary
+
+<button type="button" class="primary">Button</button>
+<a href="javascript:void(0);" class="button primary">Link Button</a>
+<input type="button" value="Input Button" class="primary">
+
+#### Secondary
+
+<button type="button" class="secondary">Button</button>
+<a href="javascript:void(0);" class="button secondary">Link Button</a>
+<input type="button" value="Input Button" class="secondary">
+
 ---
 
 ## Week 1 (May 9 - 15)
