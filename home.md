@@ -25,7 +25,7 @@
   </p>
 </blockquote>
 
-<alert>
+<div class="alert">
   <h2>What’s Happening This Week</h2>
   <h3>How to explore the problem space?</h3>
   <h4>Important Reminders</h4>
@@ -48,7 +48,7 @@
       Required Reading Quiz due Jun 4th
     </a>
   </p>
-</alert>
+</div>
 
 ---
 
